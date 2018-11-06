@@ -1,1 +1,13 @@
-console.log('hello');
+
+
+require('fs');
+module.exports = {
+
+  createFile() {
+
+  },
+  printFileContents() {
+
+
+  }
+}
